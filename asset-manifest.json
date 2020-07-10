@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/star-wars/static/css/main.20dc33bc.chunk.css",
-    "main.js": "/star-wars/static/js/main.4b80565e.chunk.js",
-    "main.js.map": "/star-wars/static/js/main.4b80565e.chunk.js.map",
+    "main.js": "/star-wars/static/js/main.3aa8e3ce.chunk.js",
+    "main.js.map": "/star-wars/static/js/main.3aa8e3ce.chunk.js.map",
     "runtime-main.js": "/star-wars/static/js/runtime-main.9ec95730.js",
     "runtime-main.js.map": "/star-wars/static/js/runtime-main.9ec95730.js.map",
-    "static/js/2.8e4bb0ed.chunk.js": "/star-wars/static/js/2.8e4bb0ed.chunk.js",
-    "static/js/2.8e4bb0ed.chunk.js.map": "/star-wars/static/js/2.8e4bb0ed.chunk.js.map",
+    "static/js/2.07ed2f2d.chunk.js": "/star-wars/static/js/2.07ed2f2d.chunk.js",
+    "static/js/2.07ed2f2d.chunk.js.map": "/star-wars/static/js/2.07ed2f2d.chunk.js.map",
     "index.html": "/star-wars/index.html",
-    "precache-manifest.726b131d4425256380abb7e527e92091.js": "/star-wars/precache-manifest.726b131d4425256380abb7e527e92091.js",
+    "precache-manifest.132833a9cd979a1d5102e953a7dfa631.js": "/star-wars/precache-manifest.132833a9cd979a1d5102e953a7dfa631.js",
     "service-worker.js": "/star-wars/service-worker.js",
     "static/css/main.20dc33bc.chunk.css.map": "/star-wars/static/css/main.20dc33bc.chunk.css.map",
-    "static/js/2.8e4bb0ed.chunk.js.LICENSE.txt": "/star-wars/static/js/2.8e4bb0ed.chunk.js.LICENSE.txt",
+    "static/js/2.07ed2f2d.chunk.js.LICENSE.txt": "/star-wars/static/js/2.07ed2f2d.chunk.js.LICENSE.txt",
     "static/media/episode1.jpg": "/star-wars/static/media/episode1.4c86c3df.jpg",
     "static/media/episode2.jpg": "/star-wars/static/media/episode2.74375f3f.jpg",
     "static/media/episode3.jpg": "/star-wars/static/media/episode3.5256d4c3.jpg",
@@ -21,8 +21,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.9ec95730.js",
-    "static/js/2.8e4bb0ed.chunk.js",
+    "static/js/2.07ed2f2d.chunk.js",
     "static/css/main.20dc33bc.chunk.css",
-    "static/js/main.4b80565e.chunk.js"
+    "static/js/main.3aa8e3ce.chunk.js"
   ]
 }
