@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/star-wars/static/css/main.20dc33bc.chunk.css",
+    "main.js": "/star-wars/static/js/main.29df8481.chunk.js",
+    "main.js.map": "/star-wars/static/js/main.29df8481.chunk.js.map",
+    "runtime-main.js": "/star-wars/static/js/runtime-main.9ec95730.js",
+    "runtime-main.js.map": "/star-wars/static/js/runtime-main.9ec95730.js.map",
+    "static/js/2.c1fd093a.chunk.js": "/star-wars/static/js/2.c1fd093a.chunk.js",
+    "static/js/2.c1fd093a.chunk.js.map": "/star-wars/static/js/2.c1fd093a.chunk.js.map",
+    "index.html": "/star-wars/index.html",
+    "precache-manifest.58cde53f54c8006c854a3e476b2bdb3b.js": "/star-wars/precache-manifest.58cde53f54c8006c854a3e476b2bdb3b.js",
+    "service-worker.js": "/star-wars/service-worker.js",
+    "static/css/main.20dc33bc.chunk.css.map": "/star-wars/static/css/main.20dc33bc.chunk.css.map",
+    "static/js/2.c1fd093a.chunk.js.LICENSE.txt": "/star-wars/static/js/2.c1fd093a.chunk.js.LICENSE.txt",
+    "static/media/episode1.jpg": "/star-wars/static/media/episode1.4c86c3df.jpg",
+    "static/media/episode2.jpg": "/star-wars/static/media/episode2.74375f3f.jpg",
+    "static/media/episode3.jpg": "/star-wars/static/media/episode3.5256d4c3.jpg",
+    "static/media/episode4.jpg": "/star-wars/static/media/episode4.96290694.jpg",
+    "static/media/episode5.jpg": "/star-wars/static/media/episode5.4fd8a9ff.jpg",
+    "static/media/episode6.jpg": "/star-wars/static/media/episode6.eea133cb.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ec95730.js",
+    "static/js/2.c1fd093a.chunk.js",
+    "static/css/main.20dc33bc.chunk.css",
+    "static/js/main.29df8481.chunk.js"
+  ]
+}
